@@ -1,8 +1,8 @@
 package main
 
 import (
+	f "github.com/aurumbot/dat/foundation"
 	dsg "github.com/bwmarrin/discordgo"
-	f "github.com/whitman-colm/go-discord"
 )
 
 var Commands = make(map[string]*f.Command)

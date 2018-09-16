@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	f "github.com/aurumbot/dat/foundation"
 	dsg "github.com/bwmarrin/discordgo"
 	gp "github.com/sparrc/go-ping"
-	f "github.com/whitman-colm/go-discord"
 )
 
 var Commands = make(map[string]*f.Command)
