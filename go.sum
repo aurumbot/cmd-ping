@@ -1,5 +1,5 @@
-github.com/aurumbot/dat v1.0.0 h1:+pFxUqzoMmOC9CQYTHazslRWHdvwYygSNXUZ7ox1Q70=
-github.com/aurumbot/dat v1.0.0/go.mod h1:xuxmP72h6JWtWMgGka9Ig2iaMjWmmbDZEArGClhHu0w=
+github.com/aurumbot/dat v1.0.3 h1:JAqgeOqvfCQEPd/J2JXdSYLwsYXNzUueib64d0jRUng=
+github.com/aurumbot/dat v1.0.3/go.mod h1:xuxmP72h6JWtWMgGka9Ig2iaMjWmmbDZEArGClhHu0w=
 github.com/bwmarrin/discordgo v0.18.0 h1:XopVQXCIFy7Cr2eT7NcYcm4k0l2PYX+AP5RUbIWX2/8=
 github.com/bwmarrin/discordgo v0.18.0/go.mod h1:5NIvFv5Z7HddYuXbuQegZ684DleQaCFqChP2iuBivJ8=
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
